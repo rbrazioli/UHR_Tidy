@@ -1,8 +1,7 @@
 # UHR_Tidy
 
-Course assignment for Coursera Data Science Specialization (3), Getting and Cleaning Data
+## Course assignment for Coursera Data Science Specialization (3), Getting and Cleaning Data
 
-==================================================================
 Human Activity Recognition Using Smartphones Tidy Dataset
 Version 1.0
 ==================================================================
@@ -13,7 +12,8 @@ DITEN - Universit‡ degli Studi di Genova.
 Via Opera Pia 11A, I-16145, Genoa, Italy.
 activityrecognition@smartlab.ws
 www.smartlab.ws
-==================================================================
+
+
 This work starts from the original data published in the frame of the Human Activity Recognition Using Smartphones activity, and trasform them into a **Tidy** Dataset, according to the following definition:
 
 1. Each variable forms a column.
