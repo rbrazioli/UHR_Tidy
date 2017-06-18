@@ -1,4 +1,12 @@
-# UHR Tidy  Dataset  (R name: UHR_Tidy_DF) 
+# UHR Tidy  Dataset  (R name: UHR_Tidy_DF)
+
+
+### For each record it is provided:
+
+- An identifier of the subject who carried out the experiment
+- A descriptive activity label.
+- A 66-feature vector with time and frequency domain variables.
+
 ## Identification data
 * **Subject ID**, in range 1..30, a single volunteer performing an activity
 * **ActivityType**, from the followimg set: (Walking, Walking_Upstairs, Walking_Downstairs, Sitting, Standing, Laying), stored as **Factor**
@@ -94,6 +102,13 @@ Subject.
 Column names are derived from the source, exchanging the order of Activity and 
 Subject, for grouping purposes, and adding the suffix "_avg" to all columns 
 containing values.
+
+### For each record it is provided:
+
+- An identifier of the subject who carried out the experiment
+- A descriptive activity label.
+- A 66-feature vector with time and frequency domain variables.
+
 
 ## Identification data
 * **ActivityType**, from the followimg set: (Walking, Walking_Upstairs, Walking_Downstairs, Sitting, Standing, Laying), stored as **Factor**

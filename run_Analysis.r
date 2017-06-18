@@ -20,7 +20,7 @@ library(dplyr)
 #   Iterations are performed on the two sets of data, using a simple vector to
 #   drive them, and consolidating data in target dataframe  in order to have
 #   code there is more maintanable.
-#   Temporary Dataframes re generated, they could be elimited by refactoring the
+#   Temporary Dataframes are generated, they could be elimited by refactoring the
 #   code, in order to reduce memory usage during elaboration, if needed
 
 
